@@ -1,0 +1,68 @@
+[
+ {
+  "_id": 0,
+  "subtitle": "The Past",
+  "title": "How it began",
+  "mainText": [
+   "In 2016, on a sunny land in the north of Portugal, Coletiv Studio was born. A Software Company with an ambitious vision and no more than four members.",
+   "Coletiv wanted to help companies of all shapes, sizes, and colors, to launch digital products that people would use and love. But for that, needed to address many challenges, ranging from UX/UI to Software Development and Cybersecurity."
+  ],
+  "question": "Seems impossible right?",
+  "image": "https://coletiv.com/static/b0741c0c8587f0e9f7fdeacbbc95f86e/67507/coletiv-studio-past.jpg"
+ },
+ {
+  "_id": 1,
+  "subtitle": "The Present",
+  "title": "Making it happen",
+  "mainText": [
+   "A few years later, Coletiv invites three talented lads to join its small development team. A team of seven, but strong enough to master any Android, iOS & Elixir project.",
+   "Coletiv team and its partners (Significa and Adamant) started helping companies from several nationalities including Switzerland, Hong Kong, Spain, and the United Kingdom."
+  ],
+  "question": "But are we going to make it?",
+  "image": "https://coletiv.com/static/c8521344db8c3e4ac962248d9736b433/67507/coletiv-studio-present.jpg"
+ },
+ {
+  "_id": 2,
+  "subtitle": "The Team",
+  "title": "Making friends",
+  "mainText": [
+   "Working together in a cozy and peaceful environment, naturally, party members become friends. Coletiv values friendship and collaboration among the teams, since brainstorming, sharing feedback and project planning are part of the everyday life."
+  ],
+  "question": "Team gatherings are essential to evaluate the positives and negatives of our challenges!",
+  "image": "https://coletiv.com/static/484cf826247e627a90c98c0df084e1e3/67507/coletiv-studio-team-gathering.jpg"
+ },
+ {
+  "_id": 3,
+  "subtitle": "The Office",
+  "title": "Building a Home",
+  "mainText": [
+   "Every week, from Monday to Friday, the brave designers and developers sit down and work together to build stunning high-quality applications. They gather in one large office in the heart of Porto, packed with a kitchen, large working desks, lounge spaces, and fresh snacks!",
+   "Since every hit needs planning, every now and then, Coletiv works face-to-face with local and international clients on their offices."
+  ],
+  "question": "If you’d like to chat, you can stop by our office or we can drop by yours.",
+  "image": "https://coletiv.com/static/09ebe46e184cd6a3a14fda7a78950eb6/e3121/coletiv-studio-office.jpg"
+ },
+ {
+  "_id": 4,
+  "subtitle": "The Network",
+  "title": "Starting a Family",
+  "mainText": [
+   "Along the way, Coletiv met Significa, a UX/UI design agency with a fierce and creative team. Together, the two partners built Adamant, a Cybersecurity company, to fight the hidden dangers of the internet.",
+   "The three parties, who were talented in their own ways, now work together to help any company with a digital product idea."
+  ],
+  "question": "Together we are unstoppable.",
+  "image": "https://coletiv.com/static/a0f10058b52994f1816241e49b189184/67507/coletiv-studio-mesh-network.jpg"
+ },
+ {
+  "_id": 5,
+  "subtitle": "The Future",
+  "title": "Getting Bigger",
+  "mainText": [
+   "The best definition as to why Coletiv exists comes from Shoe Dogg by Phill Knight, creator of Nike:",
+   "“Every runner knows this. You run and run, mile after mile, and never quite know why. You tell yourself that you are running toward some goal, chasing some rush, but really you run because the alternative, stopping, scares you to death. (…) Let everyone call your idea crazy… just keep going. Don’t stop.”",
+   "We couldn’t frame it better. We do not know where we are heading, but we know how we want to get there: with quality, with honesty and with this sense that we can become better individuals every single day!"
+  ],
+  "question": "",
+  "image": "https://coletiv.com/static/3eddce6db38efcaf595b0e9a0b6a4b79/c3638/coletiv-studio-future.jpg"
+ }
+]
